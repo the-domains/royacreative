@@ -1,0 +1,28 @@
+name: ROYACREATIVE
+favicon: null
+layout_spectrum: 0.9295903872698545
+typography_spectrum: 0.5421189067419618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5758176671806723
+  lightness: 0.9252675045281649
+  saturation: 0.64040706329979
+  rhythmicContrast: 0.596558622084558
+purpose: []
